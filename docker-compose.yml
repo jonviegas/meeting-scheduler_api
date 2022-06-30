@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+  meeting-scheduler:
+    build: .
+    image: meeting-scheduler
+    command: java -jar meeting-scheduler-0.0.1-SNAPSHOT.jar
+    ports:
+      - "8080:8080"
