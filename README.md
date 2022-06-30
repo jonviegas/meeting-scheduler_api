@@ -37,7 +37,7 @@ The project is also hosted on *Heroku*, [click here](https://meeting-scheduler-s
     ``` JSON
     {
       "name": "Docker Basics",
-      "date": "10/06",
+      "date": "10/06/2022",
       "startHour": "10:00",
       "endHour": "12:00"
     }
@@ -52,7 +52,7 @@ The project is also hosted on *Heroku*, [click here](https://meeting-scheduler-s
     ``` JSON
     {
       "name": "Docker-Compose Basics",
-      "date": "10/06",
+      "date": "10/06/2022",
       "startHour": "11:00",
       "endHour": "14:00"
     }
