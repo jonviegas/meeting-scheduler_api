@@ -32,6 +32,7 @@ The project is also hosted on *Heroku*, [click here](https://meeting-scheduler-s
     ```/rooms```
     Allows you to register a new room.
 \
+
     **Example:**
     ``` JSON
     {
@@ -46,6 +47,7 @@ The project is also hosted on *Heroku*, [click here](https://meeting-scheduler-s
      ```/rooms/{id}```
     Allows you to update a room, if exists, by id.
 \
+
     **Example:**
     ``` JSON
     {
